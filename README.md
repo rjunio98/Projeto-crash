@@ -10,9 +10,6 @@ Desafio foi criar uma pagina do jogo crash e tem a funcionalidade da janela moda
 ## Funcionalidade
 [<img src="./design/interacaobotao.gif" alt="funcionalidade do botao">]
 
-## Adaptado ao computador
-[<img src="./design/desktop.png">]
-
 ## Adaptado Mobile
 [<img src="./design/mobile.png">]
 
@@ -21,3 +18,4 @@ Desafio foi criar uma pagina do jogo crash e tem a funcionalidade da janela moda
 - HTML
 - CSS
 - JavaScript
+- Git
